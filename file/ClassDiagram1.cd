@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aggregate" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAABAAAAAAAAAAACAEAIABAAAAAAAAAA=</HashCode>
+      <FileName>Aggregate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioFile" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>AudioFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encoder2" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAAAAAQAAAAAAABAAAAAAABAAAAQAAAAAAA=</HashCode>
+      <FileName>Encoder2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EncryptionAlgorithm" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAQAAQA=</HashCode>
+      <FileName>EncryptionAlgorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File2" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAABAAAAAAAAAAACACAAAAAAAACAgAQYBAAQAAAAA=</HashCode>
+      <FileName>File2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScores" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgABAABAIAAAAAAAAAAAAAAAAAAACAAQ=</HashCode>
+      <FileName>HighScores.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapFile" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MapFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="News" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAACABAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>News.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectFile" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Score" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAIAAEAAAAAAQCQAAAAAAEAAAA=</HashCode>
+      <FileName>Score.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScriptFile" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>ScriptFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserFile" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAAAAAgCAAA=</HashCode>
+      <FileName>UserFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
